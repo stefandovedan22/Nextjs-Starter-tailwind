@@ -1,0 +1,2 @@
+This folder should contain all app components. 
+Specific components should be separated into folders, and generally used components should be in the root position.

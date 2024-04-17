@@ -1,0 +1,1 @@
+This folder should contain Yup validation schema files.
